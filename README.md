@@ -15,7 +15,7 @@ This repository contains Terraform component to set up an AWS infrastructure inc
 ## Prerequisites
 - Terraform v1.5.7 or newer.
 - AWS Access key.
-- AWS Secret Key.
+- AWS Secret key.
 
 ## Structure
 
