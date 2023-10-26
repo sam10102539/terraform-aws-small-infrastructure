@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+main.tf.BACKUP
+noted.md
+terraform.tfstate*
